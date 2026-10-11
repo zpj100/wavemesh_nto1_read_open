@@ -1,7 +1,7 @@
 {
   "name": "wavemesh_nto1_read",
   "script": "wavemesh_nto1_read_v17-28N.py",
-  "version": "17.0.0",
+  "version": "17.1.0",
   "released": "2026-10-10",
-  "notes": "采集设置增加电流/压降/温度秒级与分钟级判断；关于页可检查更新。公开仓只发布版本信息。"
+  "notes": "采集设置可配置 MQTT DID、MariaDB 库名和表名。电流/压降/温度秒级与分钟级判断仍可用。公开仓只发布版本信息。"
 }
